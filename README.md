@@ -8,7 +8,7 @@
 
 * **核心框架**: Spring Boot 3.x, Spring AOP
 * **中间件**: Redis (ZSet, Lua, Stream), Kafka (Decoupling, DLQ)
-* **AI 引擎**: LangChain4j + 阿里百炼 (Qwen-Turbo)
+* **AI 引擎**: LangChain4j + 阿里百炼 (Qwen-Max)
 * **数据库**: MySQL 8.x
 * **持久层**: MyBatis
 * **通信与缓存**: Redis Chat Memory, Sliding Window Rate Limiter
